@@ -1,0 +1,6 @@
+Package: credit.card.helper
+Version: 0.0.0.9000
+Authors@R: person("Michael", "Flanigan", email = "mick.flanigan@gmail.com", role = c("aut", "cre"))
+Depends: R (>= 3.3.2)
+Encoding: UTF-8
+RoxygenNote: 5.0.1.9000
