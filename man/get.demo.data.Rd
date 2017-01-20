@@ -9,6 +9,7 @@ get.demo.data(limit = NA, ...)
 \arguments{
 \item{limit}{Provide the maximum number of records to return.  Defaults to NA, or all available records.}
 
+\item{...}{zzz}
 }
 \description{
 This function returns a character, or factor, vector of examples names that might appear on credit cards.

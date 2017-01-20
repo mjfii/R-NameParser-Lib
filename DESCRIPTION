@@ -1,6 +1,10 @@
 Package: credit.card.helper
+Title: Parses names from credit card. - mjfii
 Version: 0.0.0.9000
 Authors@R: person("Michael", "Flanigan", email = "mick.flanigan@gmail.com", role = c("aut", "cre"))
+Description: Parses names from credit card.
 Depends: R (>= 3.3.2)
+License: Apache 2.0
 Encoding: UTF-8
+LazyData: fase
 RoxygenNote: 5.0.1.9000

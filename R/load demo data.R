@@ -2,10 +2,12 @@
 #'
 #' This function returns a character, or factor, vector of examples names that might appear on credit cards.
 #' @param limit Provide the maximum number of records to return.  Defaults to NA, or all available records.
+#' @param ... zzz
 #' @keywords demo example data
 #' @export
 #' @examples
 #' x <- get.demo.data
+#'
 #' x <- get.demo.data(10)
 get.demo.data <- function(limit = NA, ...) {
 
@@ -71,6 +73,7 @@ NICHOLAS R KELLY
 NICHOLAS S KELLY
 NICHOLAS S KELLYNIC
 NICK MRS KELLY G")
+
   names <- names[,1]
 
 }
