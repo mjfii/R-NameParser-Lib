@@ -1,10 +1,13 @@
-Package: credit.card.helper
-Title: Parses names from credit card. - mjfii
+Package: name.parser
+Title: Parses full names in to smaller more common segments.
 Version: 0.0.0.9000
 Authors@R: person("Michael", "Flanigan", email = "mick.flanigan@gmail.com", role = c("aut", "cre"))
-Description: Parses names from credit card.
+Description: Parses full names in to smaller more common segments.
 Depends: R (>= 3.3.2)
-License: Apache 2.0
+License: file LICENSE
 Encoding: UTF-8
 LazyData: false
-RoxygenNote: 5.0.1.9000
+RoxygenNote: 6.0.0
+Imports:
+  data.table,
+  parallel
