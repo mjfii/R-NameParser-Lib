@@ -1,5 +1,4 @@
-#Name Parser
-
+# Name Parser
 ---
 
 This R package, `name.parser`, uses U.S. Census data to parse full names of individuals by identifying surnames, stripping salutations and suffixes, and processing common naming conventions.  Additionally, the names are evaluated for gender and the confidence level of that determination.
